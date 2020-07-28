@@ -1,0 +1,16 @@
+d:\Users\Zver\source\repos\ConsoleApp1\DZ4\bin\Debug\netcoreapp3.1\DZ4.exe
+d:\Users\Zver\source\repos\ConsoleApp1\DZ4\bin\Debug\netcoreapp3.1\DZ4.deps.json
+d:\Users\Zver\source\repos\ConsoleApp1\DZ4\bin\Debug\netcoreapp3.1\DZ4.runtimeconfig.json
+d:\Users\Zver\source\repos\ConsoleApp1\DZ4\bin\Debug\netcoreapp3.1\DZ4.runtimeconfig.dev.json
+d:\Users\Zver\source\repos\ConsoleApp1\DZ4\bin\Debug\netcoreapp3.1\DZ4.dll
+d:\Users\Zver\source\repos\ConsoleApp1\DZ4\bin\Debug\netcoreapp3.1\DZ4.pdb
+d:\Users\Zver\source\repos\ConsoleApp1\DZ4\obj\Debug\netcoreapp3.1\DZ4.AssemblyInfoInputs.cache
+d:\Users\Zver\source\repos\ConsoleApp1\DZ4\obj\Debug\netcoreapp3.1\DZ4.AssemblyInfo.cs
+d:\Users\Zver\source\repos\ConsoleApp1\DZ4\obj\Debug\netcoreapp3.1\DZ4.csproj.CoreCompileInputs.cache
+d:\Users\Zver\source\repos\ConsoleApp1\DZ4\obj\Debug\netcoreapp3.1\DZ4.dll
+d:\Users\Zver\source\repos\ConsoleApp1\DZ4\obj\Debug\netcoreapp3.1\DZ4.pdb
+d:\Users\Zver\source\repos\ConsoleApp1\DZ4\obj\Debug\netcoreapp3.1\DZ4.genruntimeconfig.cache
+d:\Users\Zver\source\repos\ConsoleApp1\DZ4\obj\Debug\netcoreapp3.1\DZ4.csprojAssemblyReference.cache
+D:\Users\Zver\source\repos\ConsoleApp1\DZ4\bin\Debug\netcoreapp3.1\DZ6.dll
+D:\Users\Zver\source\repos\ConsoleApp1\DZ4\bin\Debug\netcoreapp3.1\DZ6.pdb
+D:\Users\Zver\source\repos\ConsoleApp1\DZ4\obj\Debug\netcoreapp3.1\DZ4.csproj.CopyComplete
