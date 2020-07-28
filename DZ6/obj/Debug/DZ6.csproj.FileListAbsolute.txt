@@ -1,0 +1,6 @@
+D:\Users\Zver\source\repos\ConsoleApp1\DZ6\bin\Debug\DZ6.dll
+D:\Users\Zver\source\repos\ConsoleApp1\DZ6\bin\Debug\DZ6.pdb
+D:\Users\Zver\source\repos\ConsoleApp1\DZ6\obj\Debug\DZ6.csprojAssemblyReference.cache
+D:\Users\Zver\source\repos\ConsoleApp1\DZ6\obj\Debug\DZ6.csproj.CoreCompileInputs.cache
+D:\Users\Zver\source\repos\ConsoleApp1\DZ6\obj\Debug\DZ6.dll
+D:\Users\Zver\source\repos\ConsoleApp1\DZ6\obj\Debug\DZ6.pdb
